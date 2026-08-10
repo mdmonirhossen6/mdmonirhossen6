@@ -1,11 +1,11 @@
-<h1 align="center">Hi, I'm Monir Hossen</h1>
+<h1 align="center">Hey 👋, I'm Monir Hossen</h1>
 
 <p align="center">
   <b>Developer · Automation Specialist · SaaS Builder</b>
 </p>
 
 <p align="center">
-  Building useful products, automating workflows, and learning by shipping.
+  Building products, automating workflows, and learning by shipping.
 </p>
 
 <p align="center">
@@ -13,194 +13,313 @@
     <img src="https://komarev.com/ghpvc/?username=mdmonirhossen6&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
   </a>
   <a href="https://github.com/mdmonirhossen6?tab=followers">
-    <img src="https://img.shields.io/github/followers/mdmonirhossen6?label=Followers&style=flat" alt="GitHub Followers">
-  </a>
-  <a href="https://github.com/mdmonirhossen6?tab=repositories">
-    <img src="https://img.shields.io/badge/Public%20Repos-13-181717?style=flat&logo=github" alt="Public Repositories">
+    <img src="https://img.shields.io/github/followers/mdmonirhossen6?label=Followers&style=flat" alt="Followers">
   </a>
 </p>
 
 ---
 
-## About Me
+## 📊 GitHub Overview
 
-* Building **Prostuti App**, an education-focused platform
-* Learning **AI Automation, Web Development & SaaS**
-* Interested in building products that solve real problems
-* Exploring automation with **n8n, Zapier and AI tools**
-* Currently experimenting with **React, TypeScript, Python, Flutter and modern web technologies**
-* Open to collaborating on useful open-source and automation projects
-
----
-
-## What I'm Building
-
-### Prostuti App
-
-An education platform focused on helping students prepare, practice and track their learning.
-
-**Website:** https://web.prostuti.bd/
-
----
-
-## Tech Stack
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,dart,html,css,rust" alt="Languages">
-</p>
-
-### Frameworks & Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flutter,vite" alt="Frameworks">
-</p>
-
-### Backend & Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=supabase,firebase,postgres,mysql" alt="Backend and Database">
-</p>
-
-### Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vercel,aws" alt="Tools and Platforms">
-</p>
-
-### Automation
-
-<p>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
-  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier">
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdmonirhossen6&theme=github_dark"
+    width="48%"
+    alt="GitHub Stats"
+  />
+  <img 
+    src="https://github-readme-streak-stats.demolab.com?user=mdmonirhossen6&theme=github-dark&hide_border=true"
+    width="48%"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
 
-# Featured Projects
+## 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,dart,flutter,rust" />
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=supabase,firebase,postgres,mysql,docker,git,github,figma,vercel,aws" />
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=android,photoshop,illustrator" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white" />
+
+</p>
+
+---
+
+## 🚀 What I'm Building
 
 <table>
 <tr>
-<td width="50%">
+<td width="60%">
 
-### BDT Tracker
+### Prostuti App
 
-A React-based project for tracking Bangladesh currency-related data.
+An education platform focused on helping students prepare, practice, and track their learning.
 
-**Stack:** React · JavaScript · Vite
+**Currently working on:**
 
-<a href="https://github.com/mdmonirhossen6/bdttracker">View Repository →</a>
-
-</td>
-<td width="50%">
-
-### NoteSprint
-
-A modern note-taking project built with Next.js and TypeScript.
-
-**Stack:** Next.js · TypeScript · Tailwind CSS
-
-<a href="https://github.com/mdmonirhossen6/notesprint">View Repository →</a>
+- Educational question banks
+- Student learning tools
+- Progress tracking
+- Study resources
+- Automation systems
 
 </td>
-</tr>
 
-<tr>
-<td width="50%">
+<td width="40%">
 
-### PDF Prostuti
-
-A project focused on working with educational PDF resources.
-
-**Stack:** Astro · Web Technologies
-
-<a href="https://github.com/mdmonirhossen6/pdfprostuti">View Repository →</a>
-
-</td>
-<td width="50%">
-
-### Digital Products
-
-A web project for working with digital products.
-
-**Stack:** JavaScript · React · Vite
-
-<a href="https://github.com/mdmonirhossen6/digitalproducts">View Repository →</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdmonirhossen6&repo=pdfprostuti&theme=github_dark&hide_border=true" />
+</p>
 
 </td>
 </tr>
 </table>
 
 <p align="center">
+  <a href="https://web.prostuti.bd/">
+    <img src="https://img.shields.io/badge/Visit%20Prostuti-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=mdmonirhossen6&theme=github-dark&hide_border=true&area=true&custom_title=Monir%20Hossen%27s%20Contribution%20Activity"
+    width="100%"
+    alt="Contribution Activity Graph"
+  />
+</p>
+
+---
+
+# 📌 GitHub Overview
+
+<table>
+<tr>
+
+<td width="55%" align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdmonirhossen6&theme=github_dark"
+  width="100%"
+  alt="GitHub Profile Details"
+/>
+
+</td>
+
+<td width="45%" align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdmonirhossen6&theme=github_dark"
+  width="100%"
+  alt="GitHub Statistics"
+/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 💻 Languages
+
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+### Top Languages by Repository
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdmonirhossen6&theme=github_dark"
+  width="100%"
+  alt="Top Languages by Repository"
+/>
+
+</td>
+
+<td width="50%" align="center">
+
+### Top Languages by Commit
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdmonirhossen6&theme=github_dark"
+  width="100%"
+  alt="Top Languages by Commit"
+/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# ⭐ Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+<a href="https://github.com/mdmonirhossen6/bdttracker">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mdmonirhossen6&repo=bdttracker&theme=github_dark&hide_border=true" />
+</a>
+
+</td>
+
+<td width="50%">
+
+<a href="https://github.com/mdmonirhossen6/notesprint">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mdmonirhossen6&repo=notesprint&theme=github_dark&hide_border=true" />
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+<a href="https://github.com/mdmonirhossen6/pdfprostuti">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mdmonirhossen6&repo=pdfprostuti&theme=github_dark&hide_border=true" />
+</a>
+
+</td>
+
+<td width="50%">
+
+<a href="https://github.com/mdmonirhossen6/digitalproducts">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mdmonirhossen6&repo=digitalproducts&theme=github_dark&hide_border=true" />
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<p align="center">
   <a href="https://github.com/mdmonirhossen6?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-# GitHub Analytics
+# 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdmonirhossen6&theme=github_dark" alt="GitHub Profile Details">
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdmonirhossen6&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark" height="180" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmonirhossen6&layout=compact&hide_border=true&theme=github_dark" height="180" alt="Top Languages">
-</p>
+<img
+  src="https://streak-stats.demolab.com/?user=mdmonirhossen6&theme=github-dark&hide_border=true"
+  width="80%"
+  alt="GitHub Streak"
+/>
 
----
-
-# Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdmonirhossen6&theme=github-dark&hide_border=true&area=true" alt="GitHub Contribution Activity Graph">
 </p>
 
 ---
 
-# GitHub Streak
+# 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mdmonirhossen6&theme=github-dark&hide_border=true" alt="GitHub Streak">
+
+<img
+  src="https://github-profile-trophy.vercel.app/?username=mdmonirhossen6&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1"
+  width="100%"
+  alt="GitHub Trophies"
+/>
+
 </p>
 
 ---
 
-# GitHub Trophies
+# 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mdmonirhossen6&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies">
-</p>
+<table>
+<tr>
+
+<td width="50%">
+
+- 🔭 Building **Prostuti App**
+- 🌱 Learning **AI Automation**
+- 💻 Learning **Web Development**
+- 🧠 Exploring **SaaS & AI**
+- ⚙️ Working with **n8n & Zapier**
+- 🚀 Building and shipping projects
+
+</td>
+
+<td width="50%">
+
+- 🤝 Open to useful collaborations
+- 📚 Interested in developer tools
+- 🔧 Love automation and productivity
+- 🌐 Interested in modern web technologies
+- 🐍 Python
+- ⚛️ React / TypeScript
+- 📱 Flutter
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# Connect With Me
+# 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/monir-hossen-00ba97392">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/md_monir_6">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
-  </a>
-  <a href="https://instagram.com/monir_.hossen">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://www.youtube.com/c/monirhossen001">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-  </a>
-  <a href="https://discord.gg/6z2tQP7Gsd">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
+
+<a href="https://linkedin.com/in/monir-hossen-00ba97392">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://twitter.com/md_monir_6">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/monir_.hossen">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://www.youtube.com/c/monirhossen001">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
+<a href="https://discord.gg/6z2tQP7Gsd">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
 </p>
 
 <p align="center">
-  <a href="mailto:heymonir07@gmail.com">
-    <img src="https://img.shields.io/badge/Email-heymonir07%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-  </a>
+
+<a href="mailto:heymonir07@gmail.com">
+<img src="https://img.shields.io/badge/Email-heymonir07%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 </p>
 
 ---
