@@ -1,42 +1,210 @@
-<h1 align="center">Hi 👋, I'm Monir Hossen</h1>
-<h3 align="center">A passionate Developer & Automation Specialist from Bangladesh.</h3>
+<h1 align="center">Hi, I'm Monir Hossen</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdmonirhossen6&label=Profile%20views&color=0e75b6&style=flat" alt="mdmonirhossen6" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdmonirhossen6" alt="mdmonirhossen6" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/md_monir_6" target="blank"><img src="https://img.shields.io/twitter/follow/md_monir_6?logo=twitter&style=for-the-badge" alt="md_monir_6" /></a> </p>
-
-- 🔭 I’m currently working on [Prostuti App](https://web.prostuti.bd/)
-
-- 🌱 I’m currently learning **AI Automation, Web Development & SaaS**
-
-- 👯 I’m looking to collaborate on [Pdf Prostuti](https://github.com/mdmonirhossen6/pdfprostuti)
-
-- 🤝 I’m looking for help with [Bdt Tracker](https://github.com/mdmonirhossen6/bdttracker)
-
-- 👨‍💻 All of my projects are available at [github.com/mdmonirhossen6](github.com/mdmonirhossen6)
-
-- 💬 Ask me about **AI Automation**
-
-- 📫 How to reach me **heymonir07@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/md_monir_6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="md_monir_6" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/monir-hossen-00ba97392" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="monir-hossen-00ba97392" height="30" width="40" /></a>
-<a href="https://fb.com/mdmonirhossen007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdmonirhossen007" height="30" width="40" /></a>
-<a href="https://instagram.com/monir_.hossen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="monir_.hossen" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/monirhossen001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="monirhossen001" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/6z2tQP7Gsd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/6z2tQP7Gsd" height="30" width="40" /></a>
+<p align="center">
+  <b>Developer · Automation Specialist · SaaS Builder</b>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+<p align="center">
+  Building useful products, automating workflows, and learning by shipping.
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdmonirhossen6&show_icons=true&locale=en&layout=compact" alt="mdmonirhossen6" /></p>
+<p align="center">
+  <a href="https://github.com/mdmonirhossen6">
+    <img src="https://komarev.com/ghpvc/?username=mdmonirhossen6&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
+  </a>
+  <a href="https://github.com/mdmonirhossen6?tab=followers">
+    <img src="https://img.shields.io/github/followers/mdmonirhossen6?label=Followers&style=flat" alt="GitHub Followers">
+  </a>
+  <a href="https://github.com/mdmonirhossen6?tab=repositories">
+    <img src="https://img.shields.io/badge/Public%20Repos-13-181717?style=flat&logo=github" alt="Public Repositories">
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdmonirhossen6&show_icons=true&locale=en" alt="mdmonirhossen6" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdmonirhossen6&" alt="mdmonirhossen6" /></p>
+## About Me
 
+* Building **Prostuti App**, an education-focused platform
+* Learning **AI Automation, Web Development & SaaS**
+* Interested in building products that solve real problems
+* Exploring automation with **n8n, Zapier and AI tools**
+* Currently experimenting with **React, TypeScript, Python, Flutter and modern web technologies**
+* Open to collaborating on useful open-source and automation projects
+
+---
+
+## What I'm Building
+
+### Prostuti App
+
+An education platform focused on helping students prepare, practice and track their learning.
+
+**Website:** https://web.prostuti.bd/
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,dart,html,css,rust" alt="Languages">
+</p>
+
+### Frameworks & Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flutter,vite" alt="Frameworks">
+</p>
+
+### Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=supabase,firebase,postgres,mysql" alt="Backend and Database">
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vercel,aws" alt="Tools and Platforms">
+</p>
+
+### Automation
+
+<p>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
+  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier">
+</p>
+
+---
+
+# Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### BDT Tracker
+
+A React-based project for tracking Bangladesh currency-related data.
+
+**Stack:** React · JavaScript · Vite
+
+<a href="https://github.com/mdmonirhossen6/bdttracker">View Repository →</a>
+
+</td>
+<td width="50%">
+
+### NoteSprint
+
+A modern note-taking project built with Next.js and TypeScript.
+
+**Stack:** Next.js · TypeScript · Tailwind CSS
+
+<a href="https://github.com/mdmonirhossen6/notesprint">View Repository →</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### PDF Prostuti
+
+A project focused on working with educational PDF resources.
+
+**Stack:** Astro · Web Technologies
+
+<a href="https://github.com/mdmonirhossen6/pdfprostuti">View Repository →</a>
+
+</td>
+<td width="50%">
+
+### Digital Products
+
+A web project for working with digital products.
+
+**Stack:** JavaScript · React · Vite
+
+<a href="https://github.com/mdmonirhossen6/digitalproducts">View Repository →</a>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/mdmonirhossen6?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories">
+  </a>
+</p>
+
+---
+
+# GitHub Analytics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdmonirhossen6&theme=github_dark" alt="GitHub Profile Details">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdmonirhossen6&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark" height="180" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmonirhossen6&layout=compact&hide_border=true&theme=github_dark" height="180" alt="Top Languages">
+</p>
+
+---
+
+# Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdmonirhossen6&theme=github-dark&hide_border=true&area=true" alt="GitHub Contribution Activity Graph">
+</p>
+
+---
+
+# GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=mdmonirhossen6&theme=github-dark&hide_border=true" alt="GitHub Streak">
+</p>
+
+---
+
+# GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mdmonirhossen6&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies">
+</p>
+
+---
+
+# Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/monir-hossen-00ba97392">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/md_monir_6">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+  </a>
+  <a href="https://instagram.com/monir_.hossen">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.youtube.com/c/monirhossen001">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  <a href="https://discord.gg/6z2tQP7Gsd">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:heymonir07@gmail.com">
+    <img src="https://img.shields.io/badge/Email-heymonir07%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Build. Automate. Learn. Ship.</i>
+</p>
